@@ -6,6 +6,7 @@ public class Hello {
 
     public static void main(String[] args) {
         //System.out.println("Hello World");
+        //
 
         //syntax: Variable types Variable_ name = variable_value
         int number=10;
@@ -22,6 +23,7 @@ public class Hello {
         int [] numbers = {1,2,3,4,5};
         System.out.println("Name : " +name);
         System.out.println("Numbers : " +numbers[2]);
+        //
 
     }
 }
