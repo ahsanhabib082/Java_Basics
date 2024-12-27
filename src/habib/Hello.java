@@ -24,6 +24,8 @@ public class Hello {
         System.out.println("Name : " +name);
         System.out.println("Numbers : " +numbers[2]);
         //
+          //
+         //
 
     }
 }
