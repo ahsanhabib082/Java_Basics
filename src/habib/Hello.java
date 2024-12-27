@@ -14,6 +14,7 @@ public class Hello {
         double nym1=122222;
         char letter ='A';
         boolean bool = true;
+        //
 
 
         System.out.println("Integer Number :" +number +" Float Number : " +num1  +" Double Number : " +nym1 +" Character : " +letter +" Boolean : " +bool);
@@ -24,8 +25,8 @@ public class Hello {
         System.out.println("Name : " +name);
         System.out.println("Numbers : " +numbers[2]);
         //
-          //
          //
+
 
     }
 }
